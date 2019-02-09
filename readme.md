@@ -1,7 +1,7 @@
 # Testy platforma AI dla Ksiegowosci
 
-## Spec
-*Test 1
+## Specyfikacja
+*Test 2
 	* Test Test 1 
 
 ## Referencje
