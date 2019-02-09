@@ -3,7 +3,7 @@
 ## Spec
 *Test 1
 	* Test Test 1 
-
+	* Dodany super test
 ## Referencje
 i1. Item 1
 1. Item 2
