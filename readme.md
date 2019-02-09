@@ -12,3 +12,7 @@ i1. Item 1
    1. Item 3b
 
 ## Changes commited
+
+
+## TODO
+* Todo w branchu add_TODO_to_readme
